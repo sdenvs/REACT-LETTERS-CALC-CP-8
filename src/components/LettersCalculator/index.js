@@ -32,7 +32,7 @@ class LettersCalculator extends Component {
             type="text"
             id="inputEl"
           />
-          <h1 className="output">No.of letters: {count}</h1>
+          <p className="output">No.of letters: {count}</p>
         </div>
       </div>
     )
